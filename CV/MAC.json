@@ -194,6 +194,22 @@
               {
                 "name": "OpenApi",
                 "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
               }
             ]
           }
