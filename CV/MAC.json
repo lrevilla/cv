@@ -8,7 +8,7 @@
     "profile": {
       "name": "Luis",
       "surnames": "Revilla Zan",
-      "title": "Backend Engineer always willing to learn",
+      "title": "Backend Engineer, always willing to learn",
       "description": "Backend Engineer who loves to spread the DevOps mindset.\nAlways learning, always trying to help.",
       "location": {
         "notes": "Palencia"
@@ -48,26 +48,6 @@
             ],
             "competences": [
               {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
                 "name": "Python",
                 "type": "technology"
               },
@@ -76,23 +56,7 @@
                 "type": "technology"
               },
               {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
                 "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
                 "type": "technology"
               },
               {
@@ -100,11 +64,19 @@
                 "type": "technology"
               },
               {
-                "name": "Backbone",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Handlebars",
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
                 "type": "technology"
               },
               {
@@ -116,11 +88,39 @@
                 "type": "technology"
               },
               {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
                 "name": "Flask",
                 "type": "technology"
               },
               {
-                "name": "C#",
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Handlebars",
+                "type": "technology"
+              },
+              {
+                "name": "Backbone",
                 "type": "technology"
               }
             ]
@@ -148,19 +148,7 @@
             ],
             "competences": [
               {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
+                "name": "Python",
                 "type": "technology"
               },
               {
@@ -168,7 +156,19 @@
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
                 "type": "technology"
               },
               {
@@ -176,11 +176,11 @@
                 "type": "technology"
               },
               {
-                "name": "Google Cloud",
+                "name": "MongoDB",
                 "type": "technology"
               },
               {
-                "name": "Python",
+                "name": "Google Cloud",
                 "type": "technology"
               },
               {
@@ -192,19 +192,7 @@
                 "type": "technology"
               },
               {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "OpenApi",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
+                "name": "Express",
                 "type": "technology"
               },
               {
@@ -212,11 +200,23 @@
                 "type": "technology"
               },
               {
-                "name": "Bitbucket",
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
                 "type": "technology"
               },
               {
                 "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
                 "type": "technology"
               }
             ]
@@ -244,23 +244,11 @@
             ],
             "competences": [
               {
-                "name": "SonarQube",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
@@ -272,15 +260,19 @@
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
                 "name": "Express",
                 "type": "technology"
               },
               {
-                "name": "Angular2+",
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
                 "type": "technology"
               },
               {
@@ -288,7 +280,15 @@
                 "type": "technology"
               },
               {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
                 "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
                 "type": "technology"
               },
               {
@@ -319,7 +319,7 @@
             ],
             "competences": [
               {
-                "name": "Nest",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
@@ -327,23 +327,7 @@
                 "type": "technology"
               },
               {
-                "name": "Amazon SQS",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
@@ -355,15 +339,11 @@
                 "type": "technology"
               },
               {
-                "name": "Jest",
+                "name": "Express",
                 "type": "technology"
               },
               {
-                "name": "Postman",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
+                "name": "Nginx",
                 "type": "technology"
               },
               {
@@ -371,11 +351,31 @@
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
                 "type": "technology"
               }
             ]
