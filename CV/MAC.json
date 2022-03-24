@@ -220,6 +220,10 @@
             ],
             "competences": [
               {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
                 "name": "Azure",
                 "type": "technology"
               },
