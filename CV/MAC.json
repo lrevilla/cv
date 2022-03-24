@@ -118,6 +118,86 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Solid GEAR Projects",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/801ef6d3-87df-4778-9dd5-3ec05b1f0fde_download.png"
+          },
+          "URL": "https://ahorasomos.izertis.com/solidgear/"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2018-01-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
