@@ -7,8 +7,12 @@
   "aboutMe": {
     "profile": {
       "name": "Luis",
-      "surnames": "Revilla",
-      "description": "A Full stack Developer who loves to spread the DevOps mindset.\nAlways learning, always trying to help."
+      "surnames": "Revilla Zan",
+      "title": "Backend Engineer always willing to learn",
+      "description": "Backend Engineer who loves to spread the DevOps mindset.\nAlways learning, always trying to help.",
+      "location": {
+        "notes": "Palencia"
+      }
     },
     "relevantLinks": [
       {
