@@ -198,6 +198,78 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2e722398-3e77-4f6b-9740-fcd2d7c02a49_download.png"
+          },
+          "URL": "https://www.payvision.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2020-01-01",
+            "finishDate": "2014-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
