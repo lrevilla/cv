@@ -270,6 +270,89 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Peoople",
+          "image": {
+            "alt": "download.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fe6eff52-ead8-46f1-a8cb-412fba2a89d9_download.jpg"
+          },
+          "URL": "https://peoople.app"
+        },
+        "roles": [
+          {
+            "name": "Head of Engineering",
+            "startDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
