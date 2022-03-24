@@ -48,6 +48,14 @@
             ],
             "competences": [
               {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
                 "name": "Angular2+",
                 "type": "technology"
               },
