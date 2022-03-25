@@ -129,102 +129,6 @@
       },
       {
         "organization": {
-          "name": "Solid GEAR Projects",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/801ef6d3-87df-4778-9dd5-3ec05b1f0fde_download.png"
-          },
-          "URL": "https://ahorasomos.izertis.com/solidgear/"
-        },
-        "roles": [
-          {
-            "name": "DevOps Engineer",
-            "startDate": "2018-01-01",
-            "finishDate": "2020-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "SonarQube",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "OpenApi",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Payvision",
           "image": {
             "alt": "download.png",
@@ -376,6 +280,102 @@
               },
               {
                 "name": "Amazon SQS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Solid GEAR Projects",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/801ef6d3-87df-4778-9dd5-3ec05b1f0fde_download.png"
+          },
+          "URL": "https://ahorasomos.izertis.com/solidgear/"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2018-01-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "As a DevOps engineer specialized in backend development I am dedicated to the development of complex backend systems with rest APIs that provide API consumers with an intuitive way to access data and perform operations within the business logic of the product.\n\nThese developments are accompanied by a whole series of best practices associated with the DevOps mentality:\nContinuous Integration\nAutomated tests\nContinuous Deployment\nStatic analysis of the code\nDeveloping and Deployment choosing a cloud-native approach since almost all systems end up deployed on AWS, Microsoft Azure, or Google Cloud."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
                 "type": "technology"
               }
             ]
