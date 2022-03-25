@@ -384,6 +384,60 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Multiplatform application development",
+        "startDate": "2013-09-01",
+        "finishDate": "2015-03-01",
+        "institution": {
+          "name": "Gregorio Fernández",
+          "description": "",
+          "URL": "https://gradosuperiormultiplataforma.gregoriofer.com/",
+          "image": {
+            "alt": "download.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/43e5cb14-2fc5-4a75-a5de-1ab61049123f_download.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Access",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
