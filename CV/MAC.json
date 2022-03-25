@@ -387,6 +387,21 @@
   "knowledge": {
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Workplace Hazard Prevention (50 h)",
+        "startDate": "2014-09-01",
+        "finishDate": "2014-10-01",
+        "institution": {
+          "name": "Consejería de Educación - Castilla y León",
+          "description": "",
+          "image": {
+            "alt": "1594771491958.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/150400f1-9ca1-4928-8b33-d8ee6bd32a46_1594771491958.jpg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Multiplatform application development",
