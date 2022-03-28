@@ -6,6 +6,10 @@
   },
   "aboutMe": {
     "profile": {
+      "birthday": "1993-11-26",
+      "contact": {
+        "contactMails": ["luis.revilla.zan@gmail.com"]
+      },
       "name": "Luis",
       "surnames": "Revilla Zan",
       "title": "Backend Engineer, always willing to learn",
@@ -14,7 +18,9 @@
         "notes": "Palencia"
       }
     },
+    "relevantYearsOfExperience": 7,
     "relevantLinks": [
+      {"type": "github", "URL": "https://github.com/lrevilla"},
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/luisrevillazan"
@@ -28,6 +34,7 @@
   "experience": {
     "jobs": [
       {
+        "type": "bigCorp",
         "organization": {
           "name": "Payvision",
           "image": {
@@ -104,6 +111,7 @@
         ]
       },
       {
+        "type": "startup",
         "organization": {
           "name": "Peoople",
           "image": {
@@ -187,6 +195,7 @@
         ]
       },
       {
+        "type": "startup",
         "organization": {
           "name": "Solid GEAR Projects",
           "image": {
@@ -279,19 +288,7 @@
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Solid GEAR Projects",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2040a8a-b0ee-415f-a046-eb0dcdd7769e_download.png"
           },
-          "URL": "https://ahorasomos.izertis.com/solidgear/"
-        },
-        "roles": [
           {
             "name": "Full Stack Engineer",
             "startDate": "2015-03-01",
