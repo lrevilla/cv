@@ -585,55 +585,13 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Flask",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SonarQube",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PL/SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Amazon SQS",
           "type": "technology"
         }
       }
