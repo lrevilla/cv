@@ -6,21 +6,23 @@
   },
   "aboutMe": {
     "profile": {
-      "birthday": "1993-11-26",
-      "contact": {
-        "contactMails": ["luis.revilla.zan@gmail.com"]
-      },
       "name": "Luis",
       "surnames": "Revilla Zan",
       "title": "Backend Engineer, always willing to learn",
       "description": "Backend Engineer who loves to spread the DevOps mindset.\nAlways learning, always trying to help.",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/c419ed24-85ae-4fc9-a96c-cc9177e07068_1517225708400.1517225708400"
+      },
       "location": {
         "notes": "Palencia"
       }
     },
-    "relevantYearsOfExperience": 7,
     "relevantLinks": [
-      {"type": "github", "URL": "https://github.com/lrevilla"},
+      {
+        "type": "github",
+        "URL": "https://github.com/lrevilla"
+      },
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/luisrevillazan"
@@ -34,89 +36,11 @@
   "experience": {
     "jobs": [
       {
-        "type": "bigCorp",
-        "organization": {
-          "name": "Payvision",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/2e722398-3e77-4f6b-9740-fcd2d7c02a49_download.png"
-          },
-          "URL": "https://www.payvision.com/"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2021-01-01",
-            "finishDate": "2021-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "SonarQube",
-                "type": "technology"
-              },
-              {
-                "name": "OpenApi",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "startup",
         "organization": {
           "name": "Peoople",
           "image": {
             "alt": "download.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/fe6eff52-ead8-46f1-a8cb-412fba2a89d9_download.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/e1e78abd-354f-45c8-8ef1-651967eec7f9_fe6eff52-ead8-46f1-a.jpg"
           },
           "URL": "https://peoople.app"
         },
@@ -124,22 +48,17 @@
           {
             "name": "Head of Engineering",
             "startDate": "2021-08-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
               {
                 "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
                 "type": "technology"
               },
               {
@@ -147,19 +66,7 @@
                 "type": "technology"
               },
               {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
                 "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
                 "type": "technology"
               },
               {
@@ -171,11 +78,15 @@
                 "type": "technology"
               },
               {
-                "name": "Lambda",
+                "name": "Jira",
                 "type": "technology"
               },
               {
-                "name": "Postman",
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
                 "type": "technology"
               },
               {
@@ -183,11 +94,19 @@
                 "type": "technology"
               },
               {
-                "name": "Confluence",
+                "name": "Nginx",
                 "type": "technology"
               },
               {
-                "name": "Amazon SQS",
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
                 "type": "technology"
               }
             ]
@@ -195,12 +114,82 @@
         ]
       },
       {
-        "type": "startup",
+        "organization": {
+          "name": "Payvision",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/57166527-68af-439c-b9a7-0452e28dc018_2e722398-3e77-4f6b-9.png"
+          },
+          "URL": "https://www.payvision.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-07-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "organization": {
           "name": "Solid GEAR Projects",
           "image": {
             "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/801ef6d3-87df-4778-9dd5-3ec05b1f0fde_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/46bc93c4-6502-4ea3-af9c-8e7168c9d48d_801ef6d3-87df-4778-9.png"
           },
           "URL": "https://ahorasomos.izertis.com/solidgear/"
         },
@@ -216,15 +205,7 @@
             ],
             "competences": [
               {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
+                "name": "Angular2+",
                 "type": "technology"
               },
               {
@@ -232,43 +213,7 @@
                 "type": "technology"
               },
               {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
+                "name": "Bitbucket",
                 "type": "technology"
               },
               {
@@ -276,15 +221,59 @@
                 "type": "technology"
               },
               {
-                "name": "SonarQube",
+                "name": "Docker",
                 "type": "technology"
               },
               {
-                "name": "Bitbucket",
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
                 "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
                 "type": "technology"
               }
             ]
@@ -292,12 +281,24 @@
         ]
       },
       {
-        "type": "startup",
+        "organization": {
+          "name": "Solid GEAR",
+          "URL": "https://www.linkedin.com/company/solidgearprojects?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2017-06-01",
+            "finishDate": "2020-12-31"
+          }
+        ]
+      },
+      {
         "organization": {
           "name": "Solid GEAR Projects",
           "image": {
             "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2040a8a-b0ee-415f-a046-eb0dcdd7769e_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/fcf646c7-0519-42da-bc64-91b55237371c_b2040a8a-b0ee-415f-a.png"
           },
           "URL": "https://ahorasomos.izertis.com/solidgear/"
         },
@@ -313,11 +314,35 @@
             ],
             "competences": [
               {
-                "name": "Python",
+                "name": "Android",
                 "type": "technology"
               },
               {
-                "name": "PHP",
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Handlebars",
                 "type": "technology"
               },
               {
@@ -329,23 +354,7 @@
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
+                "name": "Jira",
                 "type": "technology"
               },
               {
@@ -353,7 +362,23 @@
                 "type": "technology"
               },
               {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
                 "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
                 "type": "technology"
               },
               {
@@ -361,41 +386,269 @@
                 "type": "technology"
               },
               {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Flask",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Handlebars",
-                "type": "technology"
-              },
-              {
-                "name": "Backbone",
+                "name": "iOS",
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Solid GEAR",
+          "URL": "https://www.linkedin.com/company/solidgearprojects?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Engineer",
+            "startDate": "2015-03-01",
+            "finishDate": "2017-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance Software Developer"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2015-03-01",
+            "finishDate": "2020-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Namekian Team",
+          "URL": "https://www.linkedin.com/company/namekian-team?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Graphic Designer",
+            "startDate": "2015-03-01",
+            "finishDate": "2015-03-31",
+            "challenges": [
+              {
+                "description": "Spanish startup focused on indie games. Spanish startup focused on indie games."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Apperian EASE",
+          "URL": "https://www.apperian.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Slime Mountain",
+          "URL": "http://www.namekianteam.es/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2015-03-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "DrogoQuiz-RecursosJCyL",
+          "URL": "https://play.google.com/store/apps/details?id=drogo.quiz"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-05-01"
           }
         ]
       }
     ]
   },
   "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SonarQube",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Amazon SQS",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Solid GEAR Academy Trainer",
+        "startDate": "2016-02-01",
+        "finishDate": "2016-02-01",
+        "institution": {
+          "name": "Solid GEAR"
+        }
+      },
       {
         "studyType": "certification",
         "degreeAchieved": true,
@@ -404,10 +657,9 @@
         "finishDate": "2014-10-01",
         "institution": {
           "name": "Consejería de Educación - Castilla y León",
-          "description": "",
           "image": {
             "alt": "1594771491958.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/150400f1-9ca1-4928-8b33-d8ee6bd32a46_1594771491958.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/163e6d5a-54f7-485e-8163-fe1a56ea1da9_150400f1-9ca1-4928-8.jpg"
           }
         }
       },
@@ -419,20 +671,15 @@
         "finishDate": "2015-03-01",
         "institution": {
           "name": "Gregorio Fernández",
-          "description": "",
           "URL": "https://gradosuperiormultiplataforma.gregoriofer.com/",
           "image": {
             "alt": "download.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/43e5cb14-2fc5-4a75-a5de-1ab61049123f_download.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/17a1a254-61b5-457e-a466-8cbe7fbf426a_43e5cb14-2fc5-4a75-a.jpg"
           }
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
+            "name": "C#",
             "type": "technology"
           },
           {
@@ -440,15 +687,19 @@
             "type": "technology"
           },
           {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
             "name": "JavaScript",
             "type": "technology"
           },
           {
-            "name": "C#",
-            "type": "technology"
-          },
-          {
-            "name": "PL/SQL",
+            "name": "Microsoft Access",
             "type": "technology"
           },
           {
@@ -456,10 +707,30 @@
             "type": "technology"
           },
           {
-            "name": "Microsoft Access",
+            "name": "PL/SQL",
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Programming/Programmer, General Multiplatform application development",
+        "startDate": "2013-01-01",
+        "finishDate": "2015-12-31",
+        "institution": {
+          "name": "Gregorio Fernández"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "First Certificate in English (B2)",
+        "startDate": "2010-05-01",
+        "finishDate": "2010-05-01",
+        "institution": {
+          "name": "University of Cambridge"
+        }
       }
     ]
   },
@@ -475,6 +746,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
@@ -485,15 +760,11 @@
         {
           "name": "TypeScript",
           "type": "technology"
-        },
-        {
-          "name": "JavaScript",
-          "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "PHP",
+          "name": "C#",
           "type": "technology"
         },
         {
@@ -501,7 +772,7 @@
           "type": "technology"
         },
         {
-          "name": "C#",
+          "name": "PHP",
           "type": "technology"
         }
       ]
