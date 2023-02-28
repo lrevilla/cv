@@ -779,6 +779,12 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Director / General Manager",
+        "Engineering Management",
+        "Tech Lead"
       ]
     },
     "status": "openToOffers"
