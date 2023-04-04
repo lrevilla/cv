@@ -455,19 +455,6 @@
             "startDate": "2015-03-01"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "DrogoQuiz-RecursosJCyL",
-          "URL": "https://play.google.com/store/apps/details?id=drogo.quiz"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2014-05-01"
-          }
-        ]
       }
     ]
   },
