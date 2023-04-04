@@ -39,6 +39,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "FlipEat",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/da14c3d9-913e-4143-baf9-ccf047ca5921_download.png"
+          },
+          "URL": "https://flipeatapp.com/"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2022-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Peoople",
           "image": {
             "alt": "download.jpg",
@@ -279,19 +295,6 @@
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Solid GEAR",
-          "URL": "https://www.linkedin.com/company/solidgearprojects?trk=public_profile_experience-group-header"
-        },
-        "roles": [
-          {
-            "name": "DevOps Engineer",
-            "startDate": "2017-06-01",
-            "finishDate": "2020-12-31"
           }
         ]
       },
