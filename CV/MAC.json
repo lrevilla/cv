@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Palencia"
+        "municipality": "Palencia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -49,7 +50,12 @@
         "roles": [
           {
             "name": "CTO",
-            "startDate": "2022-06-01"
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -66,6 +72,11 @@
           {
             "name": "Head of Engineering",
             "startDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
@@ -145,6 +156,11 @@
             "name": "Software Engineer",
             "startDate": "2021-01-01",
             "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Angular2+",
@@ -406,7 +422,12 @@
           {
             "name": "Software Developer",
             "startDate": "2015-03-01",
-            "finishDate": "2020-11-30"
+            "finishDate": "2020-11-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -433,6 +454,7 @@
       {
         "details": {
           "name": "Apperian EASE",
+          "description": "",
           "URL": "https://www.apperian.com/"
         },
         "type": "sideProject",
@@ -446,6 +468,7 @@
       {
         "details": {
           "name": "Slime Mountain",
+          "description": "",
           "URL": "http://www.namekianteam.es/"
         },
         "type": "sideProject",
@@ -461,10 +484,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -488,18 +513,6 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Google Cloud",
           "type": "technology"
         }
@@ -518,7 +531,19 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       },
@@ -548,19 +573,7 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
           "type": "technology"
         }
       },
@@ -572,13 +585,49 @@
       },
       {
         "skill": {
-          "name": "Flask",
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
           "type": "technology"
         }
       }
@@ -591,7 +640,8 @@
         "startDate": "2016-02-01",
         "finishDate": "2016-02-01",
         "institution": {
-          "name": "Solid GEAR"
+          "name": "Solid GEAR",
+          "description": ""
         }
       },
       {
@@ -602,6 +652,7 @@
         "finishDate": "2014-10-01",
         "institution": {
           "name": "Consejería de Educación - Castilla y León",
+          "description": "",
           "image": {
             "alt": "1594771491958.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/163e6d5a-54f7-485e-8163-fe1a56ea1da9_150400f1-9ca1-4928-8.jpg"
@@ -616,6 +667,7 @@
         "finishDate": "2015-03-01",
         "institution": {
           "name": "Gregorio Fernández",
+          "description": "",
           "URL": "https://gradosuperiormultiplataforma.gregoriofer.com/",
           "image": {
             "alt": "download.jpg",
@@ -664,7 +716,8 @@
         "startDate": "2013-01-01",
         "finishDate": "2015-12-31",
         "institution": {
-          "name": "Gregorio Fernández"
+          "name": "Gregorio Fernández",
+          "description": ""
         }
       },
       {
@@ -674,7 +727,8 @@
         "startDate": "2010-05-01",
         "finishDate": "2010-05-01",
         "institution": {
-          "name": "University of Cambridge"
+          "name": "University of Cambridge",
+          "description": ""
         }
       }
     ]
@@ -727,6 +781,31 @@
         "Engineering Management",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      }
+    ]
   }
 }
