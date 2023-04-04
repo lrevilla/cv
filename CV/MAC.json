@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Luis",
       "surnames": "Revilla Zan",
       "title": "Backend Engineer, always willing to learn",
-      "description": "",
+      "description": "Backend Engineer who loves to spread the DevOps mindset.\nAlways learning, always trying to help.",
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/c419ed24-85ae-4fc9-a96c-cc9177e07068_1517225708400.1517225708400"
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Palencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Palencia"
       }
     },
     "relevantLinks": [
@@ -51,11 +50,6 @@
           {
             "name": "Head of Engineering",
             "startDate": "2021-08-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AWS",
@@ -135,11 +129,6 @@
             "name": "Software Engineer",
             "startDate": "2021-01-01",
             "finishDate": "2021-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Angular2+",
@@ -302,12 +291,7 @@
           {
             "name": "DevOps Engineer",
             "startDate": "2017-06-01",
-            "finishDate": "2020-12-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2020-12-31"
           }
         ]
       },
@@ -413,36 +397,13 @@
       },
       {
         "organization": {
-          "name": "Solid GEAR",
-          "URL": "https://www.linkedin.com/company/solidgearprojects?trk=public_profile_experience-group-header"
-        },
-        "roles": [
-          {
-            "name": "Full Stack Engineer",
-            "startDate": "2015-03-01",
-            "finishDate": "2017-06-30",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Freelance Software Developer"
         },
         "roles": [
           {
             "name": "Software Developer",
             "startDate": "2015-03-01",
-            "finishDate": "2020-11-30",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2020-11-30"
           }
         ]
       },
@@ -469,7 +430,6 @@
       {
         "details": {
           "name": "Apperian EASE",
-          "description": "",
           "URL": "https://www.apperian.com/"
         },
         "type": "sideProject",
@@ -483,7 +443,6 @@
       {
         "details": {
           "name": "Slime Mountain",
-          "description": "",
           "URL": "http://www.namekianteam.es/"
         },
         "type": "sideProject",
@@ -497,7 +456,6 @@
       {
         "details": {
           "name": "DrogoQuiz-RecursosJCyL",
-          "description": "",
           "URL": "https://play.google.com/store/apps/details?id=drogo.quiz"
         },
         "type": "sideProject",
@@ -513,12 +471,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -645,8 +601,7 @@
         "startDate": "2016-02-01",
         "finishDate": "2016-02-01",
         "institution": {
-          "name": "Solid GEAR",
-          "description": ""
+          "name": "Solid GEAR"
         }
       },
       {
@@ -657,7 +612,6 @@
         "finishDate": "2014-10-01",
         "institution": {
           "name": "Consejería de Educación - Castilla y León",
-          "description": "",
           "image": {
             "alt": "1594771491958.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/163e6d5a-54f7-485e-8163-fe1a56ea1da9_150400f1-9ca1-4928-8.jpg"
@@ -672,7 +626,6 @@
         "finishDate": "2015-03-01",
         "institution": {
           "name": "Gregorio Fernández",
-          "description": "",
           "URL": "https://gradosuperiormultiplataforma.gregoriofer.com/",
           "image": {
             "alt": "download.jpg",
@@ -721,8 +674,7 @@
         "startDate": "2013-01-01",
         "finishDate": "2015-12-31",
         "institution": {
-          "name": "Gregorio Fernández",
-          "description": ""
+          "name": "Gregorio Fernández"
         }
       },
       {
@@ -732,8 +684,7 @@
         "startDate": "2010-05-01",
         "finishDate": "2010-05-01",
         "institution": {
-          "name": "University of Cambridge",
-          "description": ""
+          "name": "University of Cambridge"
         }
       }
     ]
@@ -786,7 +737,6 @@
         "Engineering Management",
         "Tech Lead"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
