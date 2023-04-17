@@ -283,7 +283,7 @@
             "finishDate": "2020-12-01",
             "challenges": [
               {
-                "description": "As a DevOps engineer specialized in backend development I am dedicated to the development of complex backend systems with rest APIs that provide API consumers with an intuitive way to access data and perform operations within the business logic of the product.\n\nThese developments are accompanied by a whole series of best practices associated with the DevOps mentality:\nContinuous Integration\nAutomated tests\nContinuous Deployment\nStatic analysis of the code\nDeveloping and Deployment choosing a cloud-native approach since almost all systems end up deployed on AWS, Microsoft Azure, or Google Cloud."
+                "description": "Como ingeniero DevOps especializado en desarrollo de backend, me dedico al desarrollo de sistemas complejos de backend con APIs REST que proporcionan a los consumidores de la API una forma intuitiva de acceder a los datos y realizar operaciones dentro de la lógica del negocio del producto.\n\nEstos desarrollos van acompañados de toda una serie de mejores prácticas asociadas a la mentalidad DevOps:\nIntegración continua\nPruebas automatizadas\nImplementación continua\nAnálisis estático del código\nDesarrollo e implementación eligiendo un enfoque nativo de la nube, ya que casi todos los sistemas terminan implementados en AWS, Microsoft Azure o Google Cloud."
               }
             ],
             "competences": [
