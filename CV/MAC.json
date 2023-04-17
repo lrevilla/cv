@@ -205,6 +205,11 @@
             "name": "Software Engineer",
             "startDate": "2021-01-01",
             "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Como Software Developer en Payvision, trabajé en un equipo de desarrollo de software especializado en procesamiento de pagos. Participé en la implementación y mantenimiento de un sistema complejo de microservicios distribuidos que se conectaban mediante eventos en RabbitMQ y utilizamos NestJS para la arquitectura. También estuve involucrado en la parte de KYC."
+              }
+            ],
             "competences": [
               {
                 "name": "Angular2+",
