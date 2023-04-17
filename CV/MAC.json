@@ -49,7 +49,62 @@
         "roles": [
           {
             "name": "CTO",
-            "startDate": "2022-06-01"
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Como CTO en Flipeat, lidero el equipo de tecnología y trabajo en el desarrollo y mantenimiento de la plataforma que enseña la disponibilidad de restaurantes para que los usuarios puedan reservar fácilmente.\n\nUsamos una arquitectura Serverless hosteada en Google Cloud Google Cloud Functions y Firestore como base de datos, Además de esto, doy soporte a los equipos de marketing y comercial con herramientas internas y proveo de ideas sobre cómo enfocar las nuevas funcionalidades al equipo de tecnología.\n\nTambién genero métricas de KPIs basadas en datos utilizando BigQuery."
+              }
+            ],
+            "competences": [
+              {
+                "name": "BigQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Looker",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "Serverless",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
