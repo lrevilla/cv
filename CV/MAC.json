@@ -682,16 +682,6 @@
         ]
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Computer Programming/Programmer, General Multiplatform application development",
-        "startDate": "2013-01-01",
-        "finishDate": "2015-12-31",
-        "institution": {
-          "name": "Gregorio Fernández"
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "First Certificate in English (B2)",
