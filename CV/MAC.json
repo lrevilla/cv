@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Luis",
       "surnames": "Revilla Zan",
-      "title": "Backend Engineer, always willing to learn",
+      "title": "Ingeniero de Software especializado en el desarrollo fullstack y DevOps con más de 8 años de experiencia en la creación de sistemas escalables y automatización de procesos, con habilidades técnicas y transversales que garantizan la entrega de proyectos en tiempo y forma, apasionado por la búsqueda constante de conocimientos y soluciones innovadoras en tecnologías emergentes.",
       "description": "Backend Engineer who loves to spread the DevOps mindset.\nAlways learning, always trying to help.",
       "avatar": {
         "alt": "profile-image",
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Palencia"
+        "municipality": "Palencia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -379,7 +380,7 @@
             "finishDate": "2018-01-01",
             "challenges": [
               {
-                "description": "As a Full Stack Engineer, I am mainly dedicated to the development of complete frontend, backend, and database systems that provide a good user experience on the frontend and an intuitive and resilient functionality on the backend.\n\nMost of these systems are built using the MEAN stack, with Node.js + Express for the backend, Angular for the frontend, and MongoDB as the database, the remaining were built using Python's Flask, PHP, and Vanilla JavaScript (backbone) with a system of Handlebars templates"
+                "description": "Como ingeniero Full Stack, me dedico principalmente al desarrollo completo de sistemas de frontend, backend y bases de datos que proporcionan una buena experiencia de usuario en el frontend y una funcionalidad intuitiva y resistente en el backend.\n\nLa mayoría de estos sistemas se construyen utilizando el stack MEAN, con Node.js + Express para el backend, Angular para el frontend y MongoDB como base de datos. Los restantes se construyeron utilizando Flask de Python, PHP y Vanilla JavaScript (backbone) con un sistema de plantillas de Handlebars."
               }
             ],
             "competences": [
@@ -471,7 +472,12 @@
           {
             "name": "Software Developer",
             "startDate": "2015-03-01",
-            "finishDate": "2020-11-30"
+            "finishDate": "2020-11-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       },
@@ -498,6 +504,7 @@
       {
         "details": {
           "name": "Apperian EASE",
+          "description": "",
           "URL": "https://www.apperian.com/"
         },
         "type": "sideProject",
@@ -511,6 +518,7 @@
       {
         "details": {
           "name": "Slime Mountain",
+          "description": "",
           "URL": "http://www.namekianteam.es/"
         },
         "type": "sideProject",
@@ -526,10 +534,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -680,7 +690,8 @@
         "startDate": "2016-02-01",
         "finishDate": "2016-02-01",
         "institution": {
-          "name": "Solid GEAR"
+          "name": "Solid GEAR",
+          "description": ""
         }
       },
       {
@@ -691,6 +702,7 @@
         "finishDate": "2014-10-01",
         "institution": {
           "name": "Consejería de Educación - Castilla y León",
+          "description": "",
           "image": {
             "alt": "1594771491958.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/163e6d5a-54f7-485e-8163-fe1a56ea1da9_150400f1-9ca1-4928-8.jpg"
@@ -705,6 +717,7 @@
         "finishDate": "2015-03-01",
         "institution": {
           "name": "Gregorio Fernández",
+          "description": "",
           "URL": "https://gradosuperiormultiplataforma.gregoriofer.com/",
           "image": {
             "alt": "download.jpg",
@@ -753,7 +766,8 @@
         "startDate": "2010-05-01",
         "finishDate": "2010-05-01",
         "institution": {
-          "name": "University of Cambridge"
+          "name": "University of Cambridge",
+          "description": ""
         }
       }
     ]
@@ -806,6 +820,31 @@
         "Engineering Management",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      }
+    ]
   }
 }
