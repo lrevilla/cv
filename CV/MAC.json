@@ -121,6 +121,11 @@
           {
             "name": "Head of Engineering",
             "startDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": "Como Head of Backend Engineering en Peoople, lideré el equipo de ingeniería de backend y participé en la arquitectura de la plataforma. \n\nUtilizamos AWS y EKS para implementar microservicios en Kubernetes, y usamos coackroachDB postgresql como la bases de datos."
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
