@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Palencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Palencia"
       }
     },
     "relevantLinks": [
@@ -122,6 +121,7 @@
           {
             "name": "Head of Engineering",
             "startDate": "2021-08-01",
+            "finishDate": "2022-05-01",
             "challenges": [
               {
                 "description": "Como Head of Backend Engineering en Peoople, lideré el equipo de ingeniería de backend y participé en la arquitectura de la plataforma. \n\nUtilizamos AWS y EKS para implementar microservicios en Kubernetes, y usamos coackroachDB postgresql como la bases de datos."
@@ -472,12 +472,7 @@
           {
             "name": "Software Developer",
             "startDate": "2015-03-01",
-            "finishDate": "2020-11-30",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2020-11-30"
           }
         ]
       },
@@ -504,7 +499,6 @@
       {
         "details": {
           "name": "Apperian EASE",
-          "description": "",
           "URL": "https://www.apperian.com/"
         },
         "type": "sideProject",
@@ -518,7 +512,6 @@
       {
         "details": {
           "name": "Slime Mountain",
-          "description": "",
           "URL": "http://www.namekianteam.es/"
         },
         "type": "sideProject",
@@ -534,12 +527,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -690,8 +681,7 @@
         "startDate": "2016-02-01",
         "finishDate": "2016-02-01",
         "institution": {
-          "name": "Solid GEAR",
-          "description": ""
+          "name": "Solid GEAR"
         }
       },
       {
@@ -702,7 +692,6 @@
         "finishDate": "2014-10-01",
         "institution": {
           "name": "Consejería de Educación - Castilla y León",
-          "description": "",
           "image": {
             "alt": "1594771491958.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/163e6d5a-54f7-485e-8163-fe1a56ea1da9_150400f1-9ca1-4928-8.jpg"
@@ -717,7 +706,6 @@
         "finishDate": "2015-03-01",
         "institution": {
           "name": "Gregorio Fernández",
-          "description": "",
           "URL": "https://gradosuperiormultiplataforma.gregoriofer.com/",
           "image": {
             "alt": "download.jpg",
@@ -766,8 +754,7 @@
         "startDate": "2010-05-01",
         "finishDate": "2010-05-01",
         "institution": {
-          "name": "University of Cambridge",
-          "description": ""
+          "name": "University of Cambridge"
         }
       }
     ]
@@ -820,31 +807,6 @@
         "Engineering Management",
         "Tech Lead"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "TypeScript",
-        "type": "technology"
-      },
-      {
-        "name": "PostgreSQL",
-        "type": "technology"
-      },
-      {
-        "name": "MongoDB",
-        "type": "technology"
-      },
-      {
-        "name": "AWS",
-        "type": "technology"
-      },
-      {
-        "name": "Kubernetes",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
