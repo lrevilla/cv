@@ -1,20 +1,21 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Luis",
       "surnames": "Revilla Zan",
-      "title": "Ingeniero de Software especializado en el desarrollo fullstack y DevOps con más de 8 años de experiencia en la creación de sistemas escalables y automatización de procesos, con habilidades técnicas y transversales que garantizan la entrega de proyectos en tiempo y forma, apasionado por la búsqueda constante de conocimientos y soluciones innovadoras en tecnologías emergentes.",
-      "description": "Desarrollador versátil con más de 8 años de experiencia en el mundo del desarrollo. Me apasiona tanto el backend como el frontend, y disfruto mucho de la filosofía DevOps, lo que me permite ser autónomo a la hora de manejar el ciclo de vida de los sistemas que desarrollo.\n\nMe considero una persona muy activa en la búsqueda de conocimiento y siempre estoy en la búsqueda de nuevas tecnologías o diferentes arquitecturas y enfoques que me permitan estar actualizado con las últimas tendencias del mercado. Además, tengo una mentalidad colaborativa y me gusta ayudar a mis compañeros en cualquier tarea que necesiten.\n\nMi experiencia en empresas pequeñas y en fase de crecimiento me ha dado la oportunidad de crecer profesionalmente y aportar mi granito de arena en el buen ambiente y la productividad de la empresa. Mi objetivo es seguir creciendo y aprendiendo en una empresa que valore la calidad del trabajo y el buen ambiente laboral.",
+      "title": "Backend Engineer at Invofox",
+      "description": "How do I work\nI enjoy automating the development and implementation process so that our customers can test the product as soon as possible.\n\nThe approaches I use when developing include:\n* Test automation to provide the product with the highest quality\n* Application of a scalable and modular architecture\n* Automation of deployment, in this way we save hours that we can dedicate to improve the product even more\n\nAbilities\nThe most comfortable I feel is developing in Node.js with Javascript or Typescript but I am very versatile when it comes to technology, I also like to dig into other technologies and architecture patterns, so that I am always up to date with the latest trends\n\nExperience\nRight now I have 6 and a half years of experience working in the development world, most of which I have worked developing frontend and backend systems. Lately, I have specialized in the backend part, combining it with an operations part for which I am responsible, which is the cloud deployments",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/c419ed24-85ae-4fc9-a96c-cc9177e07068_1517225708400.1517225708400"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/c419ed24-85ae-4fc9-a96c-cc9177e07068_1517225708400.1517225708400",
+        "alt": "profile-image"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJERqRBcmxRw0R3aB5I3SIuZk)",
         "country": "España",
         "region": "Castilla y León",
         "municipality": "Palencia"
@@ -22,12 +23,12 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/lrevilla"
-      },
-      {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/luisrevillazan"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/lrevilla"
       },
       {
         "type": "twitter",
@@ -39,70 +40,27 @@
     "jobs": [
       {
         "organization": {
-          "name": "FlipEat",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/04/da14c3d9-913e-4143-baf9-ccf047ca5921_download.png"
-          },
-          "URL": "https://flipeatapp.com/"
+          "name": "Invofox (YC S22)"
         },
         "roles": [
           {
-            "name": "CTO",
+            "name": "Backend Engineer",
+            "startDate": "2023-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FlipEat"
+        },
+        "roles": [
+          {
+            "name": "Chief Technology Officer (CTO)",
             "startDate": "2022-06-01",
+            "finishDate": "2023-05-31",
             "challenges": [
               {
-                "description": "Como CTO en Flipeat, lidero el equipo de tecnología y trabajo en el desarrollo y mantenimiento de la plataforma que enseña la disponibilidad de restaurantes para que los usuarios puedan reservar fácilmente.\n\nUsamos una arquitectura Serverless hosteada en Google Cloud Google Cloud Functions y Firestore como base de datos, Además de esto, doy soporte a los equipos de marketing y comercial con herramientas internas y proveo de ideas sobre cómo enfocar las nuevas funcionalidades al equipo de tecnología.\n\nTambién genero métricas de KPIs basadas en datos utilizando BigQuery."
-              }
-            ],
-            "competences": [
-              {
-                "name": "BigQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Firebase",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
-                "type": "technology"
-              },
-              {
-                "name": "Looker",
-                "type": "technology"
-              },
-              {
-                "name": "REST",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "React Native",
-                "type": "technology"
-              },
-              {
-                "name": "Serverless",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "nestJS",
-                "type": "technology"
+                "description": "Skills: Node.js · Git · JSON · Docker · Continuous Delivery · SQL · Kubernetes · Nest · Agile Methodologies · DevOps · Google cloud · JavaScript · firebase · TypeScript · PostgreSQL · PL/SQL · Bash · Express.js"
               }
             ]
           }
@@ -110,83 +68,16 @@
       },
       {
         "organization": {
-          "name": "Peoople",
-          "image": {
-            "alt": "download.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/e1e78abd-354f-45c8-8ef1-651967eec7f9_fe6eff52-ead8-46f1-a.jpg"
-          },
-          "URL": "https://peoople.app"
+          "name": "Peoople"
         },
         "roles": [
           {
-            "name": "Head of Engineering",
+            "name": "Head Of Engineering",
             "startDate": "2021-08-01",
-            "finishDate": "2022-05-01",
+            "finishDate": "2022-06-30",
             "challenges": [
               {
-                "description": "Como Head of Backend Engineering en Peoople, lideré el equipo de ingeniería de backend y participé en la arquitectura de la plataforma. \n\nUtilizamos AWS y EKS para implementar microservicios en Kubernetes, y usamos coackroachDB postgresql como la bases de datos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Amazon SQS",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Postman",
-                "type": "technology"
+                "description": "Skills: Node.js · Git · JSON · Docker · Continuous Delivery · SQL · Kubernetes · Nest · Agile Methodologies · DevOps · Amazon Web Services · JavaScript · TypeScript · PostgreSQL · PL/SQL · Bash · PgSQL · Express.js"
               }
             ]
           }
@@ -194,75 +85,16 @@
       },
       {
         "organization": {
-          "name": "Payvision",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/57166527-68af-439c-b9a7-0452e28dc018_2e722398-3e77-4f6b-9.png"
-          },
-          "URL": "https://www.payvision.com/"
+          "name": "Payvision"
         },
         "roles": [
           {
             "name": "Software Engineer",
             "startDate": "2021-01-01",
-            "finishDate": "2021-07-01",
+            "finishDate": "2021-08-31",
             "challenges": [
               {
-                "description": "Como Software Developer en Payvision, trabajé en un equipo de desarrollo de software especializado en procesamiento de pagos. Participé en la implementación y mantenimiento de un sistema complejo de microservicios distribuidos que se conectaban mediante eventos en RabbitMQ y utilizamos NestJS para la arquitectura. También estuve involucrado en la parte de KYC."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "OpenApi",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "SonarQube",
-                "type": "technology"
+                "description": "Skills: Node.js · Git · JSON · Docker · Continuous Delivery · SQL · Kubernetes · Nest · RabbitMQ · Microsoft Azure · Agile Methodologies · DevOps · JavaScript · TypeScript · PostgreSQL · PL/SQL · Bash · PgSQL · Express.js · Angular"
               }
             ]
           }
@@ -270,95 +102,16 @@
       },
       {
         "organization": {
-          "name": "Solid GEAR Projects",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/46bc93c4-6502-4ea3-af9c-8e7168c9d48d_801ef6d3-87df-4778-9.png"
-          },
-          "URL": "https://ahorasomos.izertis.com/solidgear/"
+          "name": "Solid GEAR"
         },
         "roles": [
           {
             "name": "DevOps Engineer",
-            "startDate": "2018-01-01",
-            "finishDate": "2020-12-01",
+            "startDate": "2017-06-01",
+            "finishDate": "2020-12-31",
             "challenges": [
               {
-                "description": "Como ingeniero DevOps especializado en desarrollo de backend, me dedico al desarrollo de sistemas complejos de backend con APIs REST que proporcionan a los consumidores de la API una forma intuitiva de acceder a los datos y realizar operaciones dentro de la lógica del negocio del producto.\n\nEstos desarrollos van acompañados de toda una serie de mejores prácticas asociadas a la mentalidad DevOps:\nIntegración continua\nPruebas automatizadas\nImplementación continua\nAnálisis estático del código\nDesarrollo e implementación eligiendo un enfoque nativo de la nube, ya que casi todos los sistemas terminan implementados en AWS, Microsoft Azure o Google Cloud."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Nest",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "OpenApi",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "SonarQube",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
+                "description": "As a DevOps engineer specialized in backend development I am dedicated to the development of complex backend systems with rest APIs that provide API consumers with an intuitive way to access data and perform operations within the business logic of the product.\n\nThese developments are accompanied by a whole series of best practices associated with the DevOps mentality:\nContinuous Integration\nAutomated tests\nContinuous Deployment\nStatic analysis of the code\nDeveloping and Deployment choosing a cloud-native approach since almost all systems end up deployed on AWS, Microsoft Azure, or Google Cloud."
               }
             ]
           }
@@ -366,99 +119,33 @@
       },
       {
         "organization": {
-          "name": "Solid GEAR Projects",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/fcf646c7-0519-42da-bc64-91b55237371c_b2040a8a-b0ee-415f-a.png"
-          },
-          "URL": "https://ahorasomos.izertis.com/solidgear/"
+          "name": "Solid GEAR"
         },
         "roles": [
           {
             "name": "Full Stack Engineer",
             "startDate": "2015-03-01",
-            "finishDate": "2018-01-01",
+            "finishDate": "2017-06-30",
             "challenges": [
               {
-                "description": "Como ingeniero Full Stack, me dedico principalmente al desarrollo completo de sistemas de frontend, backend y bases de datos que proporcionan una buena experiencia de usuario en el frontend y una funcionalidad intuitiva y resistente en el backend.\n\nLa mayoría de estos sistemas se construyen utilizando el stack MEAN, con Node.js + Express para el backend, Angular para el frontend y MongoDB como base de datos. Los restantes se construyeron utilizando Flask de Python, PHP y Vanilla JavaScript (backbone) con un sistema de plantillas de Handlebars."
+                "description": "As a Full Stack Engineer, I am mainly dedicated to the development of complete frontend, backend, and database systems that provide a good user experience on the frontend and an intuitive and resilient functionality on the backend.\n\n90% of these systems are built using the MEAN stack, with Node.js + Express for the backend, Angular for the frontend, and MongoDB as the database, the remaining 10% were built using Python's Flask, PHP, and Vanilla JavaScript with a system of Handlebars templates"
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Namekian Team"
+        },
+        "roles": [
+          {
+            "name": "Graphic Designer",
+            "startDate": "2015-03-01",
+            "finishDate": "2015-03-31",
+            "challenges": [
               {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Backbone",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Flask",
-                "type": "technology"
-              },
-              {
-                "name": "Handlebars",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
+                "description": "Spanish startup focused on indie games."
               }
             ]
           }
@@ -472,23 +159,10 @@
           {
             "name": "Software Developer",
             "startDate": "2015-03-01",
-            "finishDate": "2020-11-30"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Namekian Team",
-          "URL": "https://www.linkedin.com/company/namekian-team?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Graphic Designer",
-            "startDate": "2015-03-01",
-            "finishDate": "2015-03-31",
+            "finishDate": "2020-11-30",
             "challenges": [
               {
-                "description": "Spanish startup focused on indie games. Spanish startup focused on indie games."
+                "description": "Skills: Git"
               }
             ]
           }
@@ -527,46 +201,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -578,61 +226,13 @@
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
+          "name": "Bash",
           "type": "technology"
         }
       },
@@ -644,19 +244,13 @@
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nest",
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -668,93 +262,160 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Solid GEAR Academy Trainer",
-        "startDate": "2016-02-01",
-        "finishDate": "2016-02-01",
-        "institution": {
-          "name": "Solid GEAR"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Workplace Hazard Prevention (50 h)",
-        "startDate": "2014-09-01",
-        "finishDate": "2014-10-01",
-        "institution": {
-          "name": "Consejería de Educación - Castilla y León",
-          "image": {
-            "alt": "1594771491958.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/163e6d5a-54f7-485e-8163-fe1a56ea1da9_150400f1-9ca1-4928-8.jpg"
-          }
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Multiplatform application development",
-        "startDate": "2013-09-01",
-        "finishDate": "2015-03-01",
+        "name": "Formación Profesional de Grado Superior, Computer Programming/Programmer, General",
+        "startDate": "2013-01-01",
         "institution": {
-          "name": "Gregorio Fernández",
-          "URL": "https://gradosuperiormultiplataforma.gregoriofer.com/",
-          "image": {
-            "alt": "download.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/17a1a254-61b5-457e-a466-8cbe7fbf426a_43e5cb14-2fc5-4a75-a.jpg"
-          }
+          "name": "Gregorio Fernández"
         },
-        "linkedCompetences": [
-          {
-            "name": "C#",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Access",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "PL/SQL",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2015-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "First Certificate in English (B2)",
-        "startDate": "2010-05-01",
-        "finishDate": "2010-05-01",
-        "institution": {
-          "name": "University of Cambridge"
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
         }
       }
     ]
@@ -763,8 +424,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/luisrevillazan"
+          "URL": "https://linkedin.com/in/luisrevillazan",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/lrevilla",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/fuckinkiddinme",
+          "type": "twitter"
         }
       ]
     },
@@ -803,10 +472,49 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Director / General Manager",
         "Engineering Management",
         "Tech Lead"
       ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
     }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "FullStack Developer / Backend Developer / DevOps engineer / Tech Lead",
+    "goodPractices": "- Uso de metodologías ágiles, específicamente Scrum, para gestionar proyectos y entregar valor de manera iterativa.\n\n- Enfoque en la calidad del código y en la automatización de pruebas para garantizar una alta calidad en el software entregado.\n\n- Implementación de herramientas y procesos DevOps para automatizar y mejorar el ciclo de vida de desarrollo y despliegue del software.",
+    "projects": [
+      {
+        "name": "Apperian EASE"
+      },
+      {
+        "name": "Slime Mountain"
+      }
+    ]
   }
 }
