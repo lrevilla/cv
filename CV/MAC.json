@@ -543,7 +543,7 @@
       }
     ],
     "desiredJobDescription": "FullStack Developer / Backend Developer / DevOps engineer / Tech Lead",
-    "goodPractices": "- Uso de metodologías ágiles, específicamente Scrum, para gestionar proyectos y entregar valor de manera iterativa.\n\n- Enfoque en la calidad del código y en la automatización de pruebas para garantizar una alta calidad en el software entregado.\n\n- Implementación de herramientas y procesos DevOps para automatizar y mejorar el ciclo de vida de desarrollo y despliegue del software.",
+    "goodPractices": "- Utilized agile methodologies, specifically Scrum, to manage projects and deliver value iteratively.\n\n- Focused on code quality and test automation to ensure high standards in delivered software.\n\n- Implemented DevOps tools and processes to automate and enhance the software development and deployment lifecycle.\n",
     "projects": [
       {
         "name": "Apperian EASE"
