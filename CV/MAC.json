@@ -45,7 +45,43 @@
         "roles": [
           {
             "name": "Backend Engineer",
-            "startDate": "2023-05-01"
+            "startDate": "2023-05-01",
+            "finishDate": "2024-08-01",
+            "challenges": [
+              {
+                "description": "\n- **Backend**: Designed, developed, and optimized robust and scalable backend systems, integrating intelligent document processing APIs to automate business workflows.  \n- **Frontend**: Contributed to the development of user interfaces, ensuring seamless and efficient user experiences using modern web technologies.  \n- **Integrations**: Implemented solutions to integrate platforms with ERP systems and cloud storage services, adhering to agile methodologies and clean architecture principles.  \n- **Cross-functional Collaboration**: Worked closely with multidisciplinary teams to enhance data digitization and validation processes powered by artificial intelligence."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS ECS",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
