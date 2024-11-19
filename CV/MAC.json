@@ -29,10 +29,6 @@
       {
         "type": "github",
         "URL": "https://github.com/lrevilla"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/fuckinkiddinme"
       }
     ]
   },
@@ -504,10 +500,6 @@
         {
           "URL": "https://github.com/lrevilla",
           "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/fuckinkiddinme",
-          "type": "twitter"
         }
       ]
     },
