@@ -40,6 +40,17 @@
         },
         "roles": [
           {
+            "name": "Engineering Manager",
+            "startDate": "2025-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Clikalia"
+        },
+        "roles": [
+          {
             "name": "Backend Engineer",
             "startDate": "2025-02-01",
             "finishDate": "2025-03-01"
